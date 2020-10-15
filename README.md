@@ -1,9 +1,14 @@
-# Language
-* [English](https://github.com/iwantavnow/Setting.App-iOS/blob/master/README.md)
-* [中文](https://github.com/iwantavnow/Setting.App-iOS/blob/master/README_zh.md)
+# Setting.App - Android
+* [Introduction / 介紹](https://github.com/iwantavnow/Setting.App/)
+* [Changelog / 變更日誌](https://github.com/iwantavnow/Setting.App-Android/releases)
 
-# Setting Android App
-App information is [HERE](https://github.com/iwantavnow/Setting.App/)
-
-# Changelog
-Changelog of each version is [HERE](https://github.com/iwantavnow/Setting.App-Android/releases)
+# Build Environment
+* Build Minimum SDK
+  * SDK 19 with AndroidX
+  * Legacy: SDK 16
+* Support Architectures
+  * armv5
+  * armv7a
+  * arm64
+  * x86
+  * x86_64
