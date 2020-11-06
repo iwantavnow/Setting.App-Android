@@ -4,7 +4,7 @@
 
 # Build Environment
 * Build Minimum SDK
-  * SDK 19 with AndroidX
+  * SDK 21 with AndroidX
   * Legacy: SDK 16
 * Support Architectures
   * armv5
